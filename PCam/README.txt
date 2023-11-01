@@ -1,6 +1,7 @@
-# Applied_machinelearning
+# PCam dataset
 
-This README file will give the reader a broad overview over which ipynb files were used for different parts in the assignment
+This is a ML project created for testing different methods of performing predictions on the PCam (PatchCamelyon) dataset.
+Some XAI has been implemented in the form of heatmaps to help understand which part of the images predictions are based.
 
 Traditional machine learning models:
 SVM_RF_CB_base_model.ipynb &
